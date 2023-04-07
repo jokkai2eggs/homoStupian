@@ -5,7 +5,6 @@ export default defineNuxtPlugin((nuxtApp) => {
       {
         id: 'G-3Z5HQV4NYL',
       },
-      { id: 'GTM-K64MD78' },
     ],
     isEnabled: true,
   })
